@@ -1,1 +1,2 @@
-# WpfApp5
+# WPF FORM TEXTBOX
+DataGrid’ de Class ve List kullanarak bazı kayıtlar listelelemeye çalıştığım bu projede XAML tarafında Datagrid’de seçilen satırın ilgili Textbox kontrolünde Binding etme olayını tam anlamıyla yapamadım.O sebepten bu haliyle paylaşmak zorunda kaldım.Normalde yapmak istediğim 'WPF Form TextBox – DataGrid Binding ' olsada 'WPF Form TextBox' şeklinde daha basit bir proje sunmuş oldum.
