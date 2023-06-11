@@ -5,6 +5,8 @@
 - Hücrelerdeki bilgiler üzerine dokunarak açılacak metin kutuları vesilesiyle düzenlenebilecektir.
 - İşe yeni girişlerde ve işten ayrılışlarda çok faydalı olacaktır.
 
+## Aşağıda basit bir portatifini görebilirsiniz:
+
 |      AD       |     SOYAD      |
 |---------------|----------------| 
 |     Semih     |      Akbaş     |
