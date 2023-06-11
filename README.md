@@ -1,2 +1,2 @@
 # WPF FORM TEXTBOX
-DataGrid’ de Class ve List kullanarak bazı kayıtlar listelelemeye çalıştığım bu projede XAML tarafında Datagrid’de seçilen satırın ilgili Textbox kontrolünde Binding etme olayını tam anlamıyla yapamadım.O sebepten bu haliyle paylaşmak zorunda kaldım.Normalde yapmak istediğim 'WPF Form TextBox – DataGrid Binding ' olsada 'WPF Form TextBox' şeklinde daha basit bir proje sunmuş oldum.
+Bu projeyle şirketimizde çalışan ekip arkadaşlarımızın kayıtlarını tutan, Windows Forms tabanlı bir izleme programı oluşturulacaktır. Yönetici veya personel kayıtları bir DataGrid kontrolünde tablo formatında listelenecek ve hücrelerdeki bilgiler üzerine dokunarak açılacak metin kutuları vesilesiyle düzenlenebilecektir.
